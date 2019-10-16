@@ -19,6 +19,15 @@
 **Link(s) to work**: 
 
 
+### Day 0: October 15, 2019 pt. iii
+
+
+**Today's Progress**: started a page for family. 
+
+**Thoughts:** Some html to get started. Committed but not published.
+
+**Link to work:** n/a
+
 ### Day 1: Wednesday 10/16/19
 
 **Today's Progress**: 
