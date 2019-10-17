@@ -1,4 +1,4 @@
-# 100 Days Of Code - That Work <log>
+# 100 Days Of Code - That Work Log
 
 
 ### Day 0: October 15, 2019
