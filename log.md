@@ -1,7 +1,7 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - That Work <log>
+
 
 ### Day 0: October 15, 2019
-
 
 **Today's Progress**: github. learned hello-world concepts.
 
@@ -9,8 +9,8 @@
 
 **Link(s) to work:** n/a
 
-### Day 0: October 15, 2019 pt. ii
 
+### Day 0: October 15, 2019 pt. ii
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -21,12 +21,12 @@
 
 ### Day 0: October 15, 2019 pt. iii
 
-
 **Today's Progress**: started a page for family. 
 
 **Thoughts:** Some html to get started. Committed but not published.
 
 **Link(s) to work:** n/a
+
 
 ### Day 1: Wednesday 10/16/19
 
@@ -35,6 +35,16 @@
 **Thoughts:** not sure what my content or structure is yet. strictly freestylin. 
 
 **Link(s) to work:** n/a 
+
+
+### Day 2: Thursday 10/17/19
+
+**Today's Progress**: more of the same.
+
+**Thoughts:** still! strictly freestylin. PUBLISH?
+
+**Link(s) to work:** n/a 
+
 
 
 <!--
