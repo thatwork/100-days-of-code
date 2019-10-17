@@ -5,9 +5,9 @@
 
 **Today's Progress**: github. learned hello-world concepts.
 
-**Thoughts:** Wasnt my first time creating a repository. I had never branched, edited, or pushed & merged.
+**Thoughts:** Wasnt my first time creating a repository nor that i pushed. I had never branched, edited, or merged.
 
-**Link to work:** n/a
+**Link(s) to work:** n/a
 
 ### Day 0: October 15, 2019 pt. ii
 
@@ -26,7 +26,7 @@
 
 **Thoughts:** Some html to get started. Committed but not published.
 
-**Link to work:** n/a
+**Link(s) to work:** n/a
 
 ### Day 1: Wednesday 10/16/19
 
