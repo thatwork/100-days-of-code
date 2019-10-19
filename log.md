@@ -46,6 +46,17 @@
 **Link(s) to work:** n/a 
 
 
+### Day 3: Friday 10/18/19
+
+**Today's Progress**: css work + exercises.
+
+**Thoughts:** repository has been published. not enough code added. step up game/ creative brainstorming/ put in THAT WORK!  
+
+**Link(s) to work:** n/a 
+
+
+
+
 
 <!--
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
