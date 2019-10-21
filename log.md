@@ -55,6 +55,29 @@
 **Link(s) to work:** n/a 
 
 
+### Day 4: Sadderday 10/19/19
+
+**Today's Progress**: css work + exercises.
+
+**Thoughts:** more exercises/ reading. learning some styles. still undetermined on layout & content. 
+in AC w/ no laptop. need code app for iPad. not enough code added. step up game/ creative brainstorming/ put in THAT WORK!  
+
+**Link(s) to work:** n/a 
+
+
+### Day 5: Funday 10/20/19
+
+**Today's Progress**: css work + exercises.
+
+**Thoughts:**  added some internal styles. id/ class/ tag/ inline/ embedded  ... rough draft stuff. IDEAs!!!... next step is a dot dot.css external style sheet/ layout/ sizing/ color/ design...
+link it + find google fonts!!!...
+
+**Link(s) to work:** n/a 
+
+
+
+
+
 
 
 
