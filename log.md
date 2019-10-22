@@ -75,6 +75,17 @@ link it + find google fonts!!!...
 **Link(s) to work:** n/a 
 
 
+### Day 6: Monday 10/21/19
+
+**Today's Progress**: css reading + exercises.
+
+**Thoughts:**  FOUND google fonts!!!... < IDEAs! > 
+pending:: + dot dot.css external style sheet/ layout/ sizing/ color/ design + link it + ...
+
+**Link(s) to work:** n/a 
+
+
+
 
 
 
