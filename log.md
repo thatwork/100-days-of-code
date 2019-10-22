@@ -85,6 +85,17 @@ pending:: + dot dot.css external style sheet/ layout/ sizing/ color/ design + li
 **Link(s) to work:** n/a 
 
 
+### Day 6: Wonday 10/21/19 pt. ii
+
+**Today's Progress**: added css.
+
+**Thoughts:**  < IDEAs! > 
+created untitled.css external style sheet & linked it ..
+still TO DO :: layout/ sizing/ color/ design ...
+
+**Link(s) to work:** n/a
+
+
 
 
 
