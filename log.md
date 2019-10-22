@@ -97,6 +97,19 @@ still TO DO :: layout/ sizing/ color/ design ...
 
 
 
+### Day 7: Tuesday 10/22/19
+
+**Today's Progress**: git intro
+
+**Thoughts:**  new repository| created index.html| added html structure via html + body tags| added title via head + title elements| made avatar|
+multiple commits & pull requests (!) (?)| added header + image + git avatar| made a list of favorite sites + added links| added style via css stylesheet 
+
+
+**Link(s) to work:** https://thatwork.github.io/intro-html/
+
+
+
+
 
 
 
