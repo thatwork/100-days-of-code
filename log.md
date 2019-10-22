@@ -106,7 +106,7 @@ multiple commits & pull requests (!) (?)| added header + image + git avatar| mad
 
 
 **Link(s) to work:** https://thatwork.github.io/intro-html/
-https://validator.w3.org/my/?showsource=yes&doc=https://thatwork.github.io/intro-html
+https://validator.w3.org/nu/?showsource=yes&doc=https://thatwork.github.io/intro-html
 
 
 
