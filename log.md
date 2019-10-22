@@ -101,8 +101,7 @@ still TO DO :: layout/ sizing/ color/ design ...
 
 **Today's Progress**: git intro
 
-**Thoughts:**  new repository| created index.html| added html structure via html + body tags| added title via head + title elements| made avatar|
-multiple commits & pull requests (!) (?)| added header + image + git avatar| made a list of favorite sites + added links| added style via css stylesheet| never forget validator || adding telephone # + sms !
+**Thoughts:**  new repository| turned up github pages| created index.html| added html structure via html + body tags| added title via head + title elements| made avatar| multiple commits & pull requests (!) (took awhile - on #/ sms - but cmon man its me bitches)| added header + image + git avatar| made a list of favorite sites + added links| added style via css stylesheet| never forget validator || adding telephone # + sms !
 
 
 **Link(s) to work:** https://thatwork.github.io/intro-html/
