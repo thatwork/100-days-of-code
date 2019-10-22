@@ -79,7 +79,7 @@ link it + find google fonts!!!...
 
 **Today's Progress**: css reading + exercises.
 
-**Thoughts:**  FOUND google fonts!!!... < IDEAs! > 
+**Thoughts:**  + https://learn.shayhowe.com + FOUND google fonts!!!... < IDEAs! > 
 pending:: + dot dot.css external style sheet/ layout/ sizing/ color/ design + link it + ...
 
 **Link(s) to work:** n/a 
