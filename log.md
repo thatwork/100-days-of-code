@@ -96,19 +96,23 @@ still TO DO :: layout/ sizing/ color/ design ...
 **Link(s) to work:** n/a
 
 
-
 ### Day 7: Tuesday 10/22/19
 
 **Today's Progress**: git intro
 
 **Thoughts:**  new repository| turned up github pages| created index.html| added html structure via html + body tags| added title via head + title elements| made avatar| multiple commits & pull requests (!) (took awhile - on #/ sms - but cmon man its me bitches)| added header + image + git avatar| made a list of favorite sites + added links| added style via css stylesheet| never forget validator || adding telephone # + sms !
 
-
 **Link(s) to work:** https://thatwork.github.io/intro-html/
 https://validator.w3.org/nu/?showsource=yes&doc=https://thatwork.github.io/intro-html
 
 
+### Day 8: Winsday 10/23/19
 
+**Today's Progress**: git intro
+
+**Thoughts:**  new repository|.SHAHIR.| new concept- personal/ business landing page| created index.html| added html structure| no commit or push will do that on 9/100! new long distance mentor| reading & studying| listening & learning| influence| SIXERS 1-0 ! || see readme/ personal log on coocoobara to see where my head was at
+
+**Link(s) to work:** https://github.com/thatwork/coocoobara/blob/master/README.md
 
 
 
