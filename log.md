@@ -119,9 +119,11 @@ https://validator.w3.org/nu/?showsource=yes&doc=https://thatwork.github.io/intro
 
 **Today's Progress**: html + css
 
-**Thoughts:**  worked on new (8/100) concept (shahir) |-شهير-| added html structure | header + icons w/ borders | STRUGGLING on POSITIONING CONTENT! | NO commit or push on 9/100! | reading & studying & listening & learning | influence | twitter mentors ... DONT SWITCH TASKS - COMPLETE COOCOOBARA+SHAHIR !!! <b>ms&#60;code&#62;ed</b> 
+**Thoughts:**  worked on new (8/100) concept (shahir) |-شهير-| added html structure | header + icons w/ borders | STRUGGLING on POSITIONING CONTENT! | NO commit or push on 9/100! | reading & studying & listening & learning | influence | twitter mentors ... DONT SWITCH TASKS - COMPLETE COOCOOBARA+SHAHIR !!! <b>ms&#60;code&#62;ed</b> <br> <br>
+taking a moment to stress the importance of planning| structure| pre development| outline| framework
 
 **Link(s) to work:** N\A
+
 
 
 
