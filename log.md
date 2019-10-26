@@ -125,6 +125,17 @@ taking a moment to stress the importance of planning| structure| pre development
 **Link(s) to work:** N\A
 
 
+### Day 10: Friday 10/25/19
+
+**Today's Progress**: html + css
+
+**Thoughts:**  (shahir) |-شهير-| continuation | STILL on POSITIONING CONTENT! | STILL NO commit/ push ! |& learning |.. DONT SWITCH TASKS - COMPLETE COOCOOBARA+SHAHIR !!! <b>ms&#60;code&#62;ed</b> <br> <br>
+
+
+**Link(s) to work:** N\A
+
+
+
 
 
 
