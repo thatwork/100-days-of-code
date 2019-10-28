@@ -131,10 +131,26 @@ taking a moment to stress the importance of planning| structure| pre development
 
 **Thoughts:**  (shahir) |-شهير-| continuation | STILL on POSITIONING CONTENT! | STILL NO commit/ push ! |& learning |.. DONT SWITCH TASKS - COMPLETE COOCOOBARA+SHAHIR !!! <b>ms&#60;code&#62;ed</b> <br> <br>
 
+**Link(s) to work:** N\A
+
+
+### Day 11: Saturday 10/26/19
+
+**Today's Progress**: html + css
+
+**Thoughts:**  (shahir) |-شهير-| added icons for home page & add'l pgs ... mostly graphic w/ very little copy content ... didnt do enough ... DO MORE !!! <b>ms&#60;code&#62;ed</b> <br> <br>
 
 **Link(s) to work:** N\A
 
 
+### Day 12: Sunday 10/27/19
+
+**Today's Progress**: (shahir) |-شهير-|
+
+**Thoughts:**  POSITIONING ... CSS { position : static/ relative/ absolute/ fixed/ inherit } | each property serves a specific purpose. <strong>understanding</strong> purpose : key to mastering CSS + layout | <b>DO MORE !!! ... ms&#60;code&#62;ed</b> <br> 
+undertanding + proficiency = confidence <i>major key</i>
+
+**Link(s) to work:** N\A
 
 
 
