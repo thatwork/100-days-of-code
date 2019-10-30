@@ -156,8 +156,8 @@ undertanding + proficiency = confidence <i>major key</i>
 ### Day 13: Monday 10/28/19
 
 **Today's Progress**: N/A
-**Thoughts:**  | <b>DO MORE !!! ... GET BACK TO T H A T W O R K ! ! !</b> <br> 
-undertanding + proficiency = confidence <i>major key</i>
+**Thoughts:**  <br>| <b>DO MORE !!! <br>... GET BACK TO T H A T W O R K ! ! !</b> <br> 
+undertanding + proficiency = confidence <i>major key</i><br><b>ms&#60;code&#62;ed</b>
 
 **Link(s) to work:** N\A
 
@@ -166,8 +166,8 @@ undertanding + proficiency = confidence <i>major key</i>
 
 **Today's Progress**: (shahir) |-شهير-|
 
-**Thoughts:**  POSITIONING ... boxes for: header/ container; image w/ float/ spacing ... NEED MORE WORK ... + WORK MORE !<br>COMMIT + PUSH to track changes ... read+ listen+ watch !!!
-undertanding + proficiency = confidence <i>major key</i>
+**Thoughts:**  <br>POSITIONING ... boxes for: header/ container; image w/ float/ spacing<br>... NEED MORE WORK<br>... + WORK MORE !<br>COMMIT + PUSH to track changes ...<br>read+ listen+ watch !!!... | undertanding + proficiency = confidence <i>major key</i><br>
+<b>ms&#60;code&#62;ed</b>
 
 **Link(s) to work:** N\A
 
