@@ -178,9 +178,8 @@ undertanding + proficiency = confidence <i>major key</i><br><b>ms&#60;code&#62;e
 **Today's Progress**: <strong>3/10</strong> DO CSS|LAYOUT .. be a CRAFTSMAN | ADVANCED BEGINNER
 
 **Thoughts:**  panic code editor/ terminal/ sftp/ remote login:: coding tools (top level craftsman always stay tooled up & devote much care to their tools)| customizing environment| basic structure <br>... NEED MORE WORK<br>... + WORK MORE !<br>COMMIT + PUSH to track changes ...<br>on mentors heavy BO: developerT: DS !!!... <br>| undertanding + proficiency = confidence <i>major key</i> |<br>
-<b>ms&#60;code&#62;ed</b><br>learning how to learn| apprentice model? <a target="_blank" href="https://en.wikipedia.org/wiki/Dunning–Kruger_effect">imposter syndrome</a>... do trailmix? 
-
-
+<b>ms&#60;code&#62;ed</b><br>learning how to learn| apprentice model? <a target="_blank" href="https://tinyurl.com/y6ew9nr6">imposter syndrome</a>... do trailmix? 
+<br><b>if you care about your craft you should be practicing it..tackle challenges & get feedback from others who are practicing it<b> see upcase
 
 **Link(s) to work:** N\A
 
