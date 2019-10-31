@@ -173,6 +173,15 @@ undertanding + proficiency = confidence <i>major key</i><br><b>ms&#60;code&#62;e
 **Link(s) to work:** N\A
 
 
+### Day 15: Wednesday 10/30/19
+
+**Today's Progress**: <strong>3/10</strong> go to css/ layout 
+
+**Thoughts:**  panic code editor/ terminal/ sftp/ remote login:: coding tools (top level craftsman always stay tooled up & devote much care to their tools)| customizing environment| basic structure <br>... NEED MORE WORK<br>... + WORK MORE !<br>COMMIT + PUSH to track changes ...<br>on mentors heavy BO: developerT: DS !!!... <br>| undertanding + proficiency = confidence <i>major key</i> |<br>
+<b>ms&#60;code&#62;ed</b>
+
+**Link(s) to work:** N\A
+
 
 <!--
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
