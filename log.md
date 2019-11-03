@@ -184,6 +184,34 @@ undertanding + proficiency = confidence <i>major key</i><br><b>ms&#60;code&#62;e
 **Link(s) to work:** N\A
 
 
+### Day 16: Thursday 10/31/19
+
+**Today's Progress**: N/A
+
+**Thoughts:**  T I G H T E N  U P
+
+**Link(s) to work:** N\A
+
+
+### Day 17: Friday 11/1/19
+
+**Today's Progress**: N/A
+
+**Thoughts:**  WHAT IS TIME REALLY . . . is it really real ? ? ? <i>whatever the case </i><b> اغتنم خمسا قبل خمس</b><br><b>100 L I T T L E  D E C I S I O N S</b>
+
+**Link(s) to work:** N\A
+
+
+### Day 18: Saturday 11/2/19
+
+**Today's Progress**: <strong>2/10</strong> <i>CRAFTSMAN | ADVANCED BEGINNER</i>
+
+**Thoughts:**  panic code editor/ | basic structure <br>NEED MORE WORK<br>... + WORK MORE !<br>| undertanding + proficiency = confidence |<br>
+<b>ms&#60;code&#62;ed</b><br><b>if you care about your craft you should be practicing it..</b> 
+
+**Link(s) to work:** N\A
+
+
 <!--
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
